@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+https://hacksnation.com/d/5531-download-machine-learning-deep-learning-in-30hrs-for-free
 
 First, run the development server:
 
